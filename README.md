@@ -128,7 +128,7 @@ I'm always interested in collaborating on:
 - 💡 Innovative automation solutions
 
 **Get in touch:**
-- 📧 Email: abdulmoezzcontact007@gmail.com
+- 📧 Email: abdulmoeezcontact007@gmail.com
 - 📱 WhatsApp/Phone: +923269503023
 - 🔗 LinkedIn: [abdul-moeez-bhatti-a168992aa](https://www.linkedin.com/in/abdul-moeez-bhatti-a168992aa/)
 
