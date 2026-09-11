@@ -4,7 +4,7 @@
 
 🚀 AI Automation & CRM Developer with 2+ years of experience helping businesses streamline operations through intelligent automation, CRM development, and custom integrations.
 
-📍 Bahawalpur, Punjab, Pakistan | 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-moeez-bhatti-a168992aa/) | 📧 abdulmoezzcontact007@gmail.com | 📱 +923269503023
+📍 Bahawalpur, Punjab, Pakistan | 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-moeez-bhatti-a168992aa/) | 📧 abdulmoeezcontact007@gmail.com | 📱 +923269503023
 
 ---
 
@@ -87,38 +87,6 @@ I've delivered solutions including **automated lead assignment systems**, **AI-p
 - ✅ **Zoho CRM Developer** - Certificate of Completion
 - ✅ **AI Automation Developer** - In Progress
 - ✅ **Fundamentals of Python** - Completed
-
----
-
-## 💻 Featured Projects
-
-### [Python-KBC](https://github.com/abdulmoeezbhatti831/Python-KBC)
-🎮 My first awesome game created in Python - A Kaun Banega Crorepati style quiz game
-- **Language:** Python
-- **Status:** Active
-
-### [Virtual-Assistant](https://github.com/abdulmoeezbhatti831/Virtual-Assistant)
-🤖 Voice recognition virtual assistant with multiple commands
-- **Language:** Python
-- **Features:** Voice input, command processing, AI responses
-- **Status:** Active
-
-### [EID-GREETINGS](https://github.com/abdulmoeezbhatti831/EID-GREETINGS)
-🎉 An Eid greeting webpage created to deliver greetings in a unique coding way
-- **Language:** HTML/CSS
-- **Interactive:** Yes
-
-### [Detect-OS](https://github.com/abdulmoeezbhatti831/Detect-OS)
-🖥️ Operating System detection project
-- **Language:** HTML
-
-### [Hand-Particles](https://github.com/abdulmoeezbhatti831/hand-particles)
-✨ Interactive hand particle effects
-- **Language:** HTML/CSS/JavaScript
-
-### [Donate-10](https://github.com/abdulmoeezbhatti831/Donate-10)
-💝 Donation platform
-- **Language:** HTML/CSS
 
 ---
 
